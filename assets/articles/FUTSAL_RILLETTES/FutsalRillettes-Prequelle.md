@@ -1,5 +1,8 @@
 ﻿# Futsal Rillettes - Préquelle
 
+
+<!--- Nous y voilà. Mon premier article voit le jour. -->
+
 Nous y voilà. Mon premier article voit le jour. 
 Mais avant de s'en émouvoir et de tous se serrer dans les bras, on va peut être commencer par se présenter.
 Alors bienvenue, moi c'est **le Futsal Rillettes**. Moins célèbre que le football, bien plus gras que le champagne, à côté de moi la MLS c'est du caviar.
@@ -21,8 +24,6 @@ Et aussi que je refuse de réduire cette marge.
 ## Donc ça traite de quoi ? 
 
 Déjà de futsal.
-
-![Alt](https://previews.123rf.com/images/visible3dscience/visible3dscience1611/visible3dscience161109597/66021913-kid-girl-with-abcd-signltimg)
 
 Ensuite d'un truc bien gras, informe, mais néanmoins gouteux à souhait (sauf si ça vient du Mans) nommé rillettes !
 Un florilège de gestes loupés, de passes désastreuses, de tacles de gorets et quelques fois mais avec parcimonie de bonnes blessures.
