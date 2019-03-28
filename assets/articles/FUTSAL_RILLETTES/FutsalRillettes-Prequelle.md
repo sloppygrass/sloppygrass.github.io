@@ -1,7 +1,7 @@
 ﻿# Futsal Rillettes - Préquelle
 
 
-<!--- Nous y voilà. Mon premier article voit le jour. -->
+[comment]: <> (Nous y voilà. Mon premier article voit le jour!)
 
 Nous y voilà. Mon premier article voit le jour. 
 Mais avant de s'en émouvoir et de tous se serrer dans les bras, on va peut être commencer par se présenter.
@@ -28,4 +28,4 @@ Déjà de futsal.
 Ensuite d'un truc bien gras, informe, mais néanmoins gouteux à souhait (sauf si ça vient du Mans) nommé rillettes !
 Un florilège de gestes loupés, de passes désastreuses, de tacles de gorets et quelques fois mais avec parcimonie de bonnes blessures.
 
-**De quoi se souvenir que le spectacle c'est à nous de définir de quoi il est fait !**.
+**De quoi se souvenir que le spectacle c'est à nous de définir de quoi il est fait !**
