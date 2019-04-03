@@ -10,6 +10,18 @@
   <link href="https://fonts.googleapis.com/css?family=Muli|PT+Sans|Slabo+27px|Permanent+Marker|Righteous" rel="stylesheet">
 <link rel="stylesheet" href="styles.0b049dd902999d1715c8.css"></head>
 <body>
+  <script>
+    (function () {
+      var redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      console.log("index");
+      console.log(redirect);
+      console.log(location.href);
+      if (redirect && redirect != location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
   <app-root></app-root>
 <script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.1e04665e16f944715fd2.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="main.6dd5dc0e5ac45562aa6f.js"></script></body>
 </html>
